@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **C++,Data Structures, Algorithms, Web-Development**
+- 💬 Ask me about **C++,Data Structures, Algorithms, Web-Development **
 
 - 📫 How to reach me **suk613939@gmail.com**
 
