@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development **
 
 - 💬 Ask me about **C++,Data Structures, Algorithms, Web-Development**
 
